@@ -1,0 +1,21 @@
+vsn:https://192.168.1.23:8443/svn/20200217/(老师的服务器地址）
+
+
+Git:
+
+pc----本地仓库---远程仓库（reporsitory）
+
+Git客户端安装
+git图形界面安装
+
+
+必须直备注才能commit
+
+
+建远程库githup  (码云）
+www.github.com
+sign up :注册
+
+
+建远程库
+clone--add--commit--(url)
